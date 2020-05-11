@@ -1,0 +1,16 @@
+.page {
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid red;
+
+}
+
+.page__img {
+  border: 1px solid red;
+  margin: 30px auto;
+  width: 50%;
+  padding-bottom: 50%;
+  /*display: none;*/
+
+  /*width: 100%;*/
+}

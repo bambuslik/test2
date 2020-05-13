@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="471a9aa3-0284-4f82-8ef9-75f62b01f7de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +49,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,11 +72,47 @@
       <updated>1587630804526</updated>
       <workItem from="1587630807187" duration="1443000" />
       <workItem from="1587666800899" duration="3300000" />
-      <workItem from="1589143178221" duration="15112000" />
+      <workItem from="1589143178221" duration="16383000" />
+      <workItem from="1589361639078" duration="17000" />
+      <workItem from="1589361786557" duration="185000" />
+      <workItem from="1589362019386" duration="64000" />
+      <workItem from="1589362860797" duration="64000" />
+      <workItem from="1589363137726" duration="128000" />
+      <workItem from="1589363279153" duration="10000" />
+      <workItem from="1589363331127" duration="3000" />
+      <workItem from="1589363380899" duration="317000" />
+      <workItem from="1589363713659" duration="19000" />
+      <workItem from="1589363760199" duration="244000" />
+      <workItem from="1589365305276" duration="10000" />
+      <workItem from="1589369949090" duration="633000" />
+      <workItem from="1589372837359" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="794" y="446" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589361794639">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="794" y="446" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1589361794639" />
+    <state x="655" y="273" key="SettingsEditor" timestamp="1589364137649">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="655" y="273" key="SettingsEditor/0.0.1920.1160/1920.0.1920.1040@0.0.1920.1160" timestamp="1589364137649" />
+    <state x="2160" y="232" key="SettingsEditor/0.0.1920.1160/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589363848189" />
   </component>
 </project>
